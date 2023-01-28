@@ -1,0 +1,35 @@
+.row1,
+.row2,
+.row3 {
+    display: flex;
+}
+.containerImg {
+    height: 8rem;
+    max-width: 10rem;
+    min-width: 6rem;
+}
+.medicineContainerTop {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.upperHead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lowerHead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.medicineContainer {
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 30px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 31%;
+}
